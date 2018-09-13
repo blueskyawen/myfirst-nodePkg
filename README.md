@@ -2,10 +2,10 @@
 
 # Install
 
-  $ npm install ng-zorro-antd --save
+    $ npm install ng-zorro-antd --save
 
-$ Development
+# Development
 
-  $ git clone git@github.com:NG-ZORRO/ng-zorro-antd.git
-  $ npm install
-  $ npm start
+    $ git clone git@github.com:NG-ZORRO/ng-zorro-antd.git
+    $ npm install
+    $ npm start
