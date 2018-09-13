@@ -1,0 +1,28 @@
+{
+  "name": "myfirst-nodepkg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/webpack-numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blueskyawen/myfirst-nodePkg.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "blueskyawen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blueskyawen/myfirst-nodePkg/issues"
+  },
+  "homepage": "https://github.com/blueskyawen/myfirst-nodePkg#readme",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.18.1",
+    "webpack-cli": "^3.1.0"
+  }
+}
