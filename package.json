@@ -1,7 +1,7 @@
 {
   "name": "myfirst-nodepkg",
   "version": "1.0.0",
-  "description": "",
+  "description": "webpack-numbers",
   "main": "dist/webpack-numbers.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,13 +15,15 @@
     "js"
   ],
   "author": "blueskyawen",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/blueskyawen/myfirst-nodePkg/issues"
   },
   "homepage": "https://github.com/blueskyawen/myfirst-nodePkg#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
   "devDependencies": {
-    "lodash": "^4.17.11",
     "webpack": "^4.18.1",
     "webpack-cli": "^3.1.0"
   }
