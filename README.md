@@ -2,10 +2,10 @@
 
 # Install
 
-    $ npm install ng-zorro-antd --save
+    $ npm install myfirst-nodepkg --save
 
 # Development
 
-    $ git clone git@github.com:NG-ZORRO/ng-zorro-antd.git
+    $ git clone https://github.com/blueskyawen/myfirst-nodePkg.git
     $ npm install
     $ npm start
